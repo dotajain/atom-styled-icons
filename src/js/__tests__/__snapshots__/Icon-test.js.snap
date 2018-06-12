@@ -1565,6 +1565,57 @@ exports[`Icon renders all icons 29`] = `
 }
 
 <svg
+  aria-label="Atom"
+  className="c0"
+  height="24px"
+  role="img"
+  version="1.1"
+  viewBox="0 0 24 24"
+  width="24px"
+>
+  <path
+    d="M12,2 C6.485,2 2,6.485 2,12 C2,17.515 6.485,22 12,22 C17.515,22 22,17.515 22,12 C22,6.485 17.515,2 12,2 Z"
+    fill="none"
+    stroke="#865CD6"
+    strokeWidth="4"
+  />
+</svg>
+`;
+
+exports[`Icon renders all icons 30`] = `
+.c0 {
+  display: inline-block;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  fill: #666666;
+  stroke: #666666;
+}
+
+.c0 g {
+  fill: inherit;
+  stroke: inherit;
+}
+
+.c0 *:not([stroke])[fill="none"] {
+  stroke-width: 0;
+}
+
+.c0 *[stroke*="#"],
+.c0 *[STROKE*="#"] {
+  stroke: inherit;
+  fill: none;
+}
+
+.c0 *[fill-rule],
+.c0 *[FILL-RULE],
+.c0 *[fill*="#"],
+.c0 *[FILL*="#"] {
+  fill: inherit;
+  stroke: none;
+}
+
+<svg
   aria-label="Attachment"
   className="c0"
   height="24px"
@@ -1582,7 +1633,7 @@ exports[`Icon renders all icons 29`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 30`] = `
+exports[`Icon renders all icons 31`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -1633,7 +1684,7 @@ exports[`Icon renders all icons 30`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 31`] = `
+exports[`Icon renders all icons 32`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -1686,7 +1737,7 @@ exports[`Icon renders all icons 31`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 32`] = `
+exports[`Icon renders all icons 33`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -1737,7 +1788,7 @@ exports[`Icon renders all icons 32`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 33`] = `
+exports[`Icon renders all icons 34`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -1788,7 +1839,7 @@ exports[`Icon renders all icons 33`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 34`] = `
+exports[`Icon renders all icons 35`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -1839,7 +1890,7 @@ exports[`Icon renders all icons 34`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 35`] = `
+exports[`Icon renders all icons 36`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -1890,7 +1941,7 @@ exports[`Icon renders all icons 35`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 36`] = `
+exports[`Icon renders all icons 37`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -1941,7 +1992,7 @@ exports[`Icon renders all icons 36`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 37`] = `
+exports[`Icon renders all icons 38`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -1991,7 +2042,7 @@ exports[`Icon renders all icons 37`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 38`] = `
+exports[`Icon renders all icons 39`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2042,7 +2093,7 @@ exports[`Icon renders all icons 38`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 39`] = `
+exports[`Icon renders all icons 40`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2093,7 +2144,7 @@ exports[`Icon renders all icons 39`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 40`] = `
+exports[`Icon renders all icons 41`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2144,7 +2195,7 @@ exports[`Icon renders all icons 40`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 41`] = `
+exports[`Icon renders all icons 42`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2192,7 +2243,7 @@ exports[`Icon renders all icons 41`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 42`] = `
+exports[`Icon renders all icons 43`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2243,7 +2294,7 @@ exports[`Icon renders all icons 42`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 43`] = `
+exports[`Icon renders all icons 44`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2294,7 +2345,7 @@ exports[`Icon renders all icons 43`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 44`] = `
+exports[`Icon renders all icons 45`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2345,7 +2396,7 @@ exports[`Icon renders all icons 44`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 45`] = `
+exports[`Icon renders all icons 46`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2400,7 +2451,7 @@ exports[`Icon renders all icons 45`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 46`] = `
+exports[`Icon renders all icons 47`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2451,7 +2502,7 @@ exports[`Icon renders all icons 46`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 47`] = `
+exports[`Icon renders all icons 48`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2503,7 +2554,7 @@ exports[`Icon renders all icons 47`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 48`] = `
+exports[`Icon renders all icons 49`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2554,7 +2605,7 @@ exports[`Icon renders all icons 48`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 49`] = `
+exports[`Icon renders all icons 50`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2605,7 +2656,7 @@ exports[`Icon renders all icons 49`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 50`] = `
+exports[`Icon renders all icons 51`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2656,7 +2707,7 @@ exports[`Icon renders all icons 50`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 51`] = `
+exports[`Icon renders all icons 52`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2707,7 +2758,7 @@ exports[`Icon renders all icons 51`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 52`] = `
+exports[`Icon renders all icons 53`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2758,7 +2809,7 @@ exports[`Icon renders all icons 52`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 53`] = `
+exports[`Icon renders all icons 54`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2809,7 +2860,7 @@ exports[`Icon renders all icons 53`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 54`] = `
+exports[`Icon renders all icons 55`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2860,7 +2911,7 @@ exports[`Icon renders all icons 54`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 55`] = `
+exports[`Icon renders all icons 56`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2911,7 +2962,7 @@ exports[`Icon renders all icons 55`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 56`] = `
+exports[`Icon renders all icons 57`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -2963,7 +3014,7 @@ exports[`Icon renders all icons 56`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 57`] = `
+exports[`Icon renders all icons 58`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3014,7 +3065,7 @@ exports[`Icon renders all icons 57`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 58`] = `
+exports[`Icon renders all icons 59`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3065,7 +3116,7 @@ exports[`Icon renders all icons 58`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 59`] = `
+exports[`Icon renders all icons 60`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3116,7 +3167,7 @@ exports[`Icon renders all icons 59`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 60`] = `
+exports[`Icon renders all icons 61`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3168,7 +3219,7 @@ exports[`Icon renders all icons 60`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 61`] = `
+exports[`Icon renders all icons 62`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3220,7 +3271,7 @@ exports[`Icon renders all icons 61`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 62`] = `
+exports[`Icon renders all icons 63`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3271,7 +3322,7 @@ exports[`Icon renders all icons 62`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 63`] = `
+exports[`Icon renders all icons 64`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3322,7 +3373,7 @@ exports[`Icon renders all icons 63`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 64`] = `
+exports[`Icon renders all icons 65`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3373,7 +3424,7 @@ exports[`Icon renders all icons 64`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 65`] = `
+exports[`Icon renders all icons 66`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3423,7 +3474,7 @@ exports[`Icon renders all icons 65`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 66`] = `
+exports[`Icon renders all icons 67`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3474,7 +3525,7 @@ exports[`Icon renders all icons 66`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 67`] = `
+exports[`Icon renders all icons 68`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3525,7 +3576,7 @@ exports[`Icon renders all icons 67`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 68`] = `
+exports[`Icon renders all icons 69`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3576,7 +3627,7 @@ exports[`Icon renders all icons 68`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 69`] = `
+exports[`Icon renders all icons 70`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3627,7 +3678,7 @@ exports[`Icon renders all icons 69`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 70`] = `
+exports[`Icon renders all icons 71`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3678,7 +3729,7 @@ exports[`Icon renders all icons 70`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 71`] = `
+exports[`Icon renders all icons 72`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3730,7 +3781,7 @@ exports[`Icon renders all icons 71`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 72`] = `
+exports[`Icon renders all icons 73`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3781,7 +3832,7 @@ exports[`Icon renders all icons 72`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 73`] = `
+exports[`Icon renders all icons 74`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3835,7 +3886,7 @@ exports[`Icon renders all icons 73`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 74`] = `
+exports[`Icon renders all icons 75`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3886,7 +3937,7 @@ exports[`Icon renders all icons 74`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 75`] = `
+exports[`Icon renders all icons 76`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -3952,7 +4003,7 @@ exports[`Icon renders all icons 75`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 76`] = `
+exports[`Icon renders all icons 77`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4003,7 +4054,7 @@ exports[`Icon renders all icons 76`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 77`] = `
+exports[`Icon renders all icons 78`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4054,7 +4105,7 @@ exports[`Icon renders all icons 77`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 78`] = `
+exports[`Icon renders all icons 79`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4105,7 +4156,7 @@ exports[`Icon renders all icons 78`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 79`] = `
+exports[`Icon renders all icons 80`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4156,7 +4207,7 @@ exports[`Icon renders all icons 79`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 80`] = `
+exports[`Icon renders all icons 81`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4207,7 +4258,7 @@ exports[`Icon renders all icons 80`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 81`] = `
+exports[`Icon renders all icons 82`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4258,7 +4309,7 @@ exports[`Icon renders all icons 81`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 82`] = `
+exports[`Icon renders all icons 83`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4309,7 +4360,7 @@ exports[`Icon renders all icons 82`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 83`] = `
+exports[`Icon renders all icons 84`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4360,7 +4411,7 @@ exports[`Icon renders all icons 83`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 84`] = `
+exports[`Icon renders all icons 85`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4411,7 +4462,7 @@ exports[`Icon renders all icons 84`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 85`] = `
+exports[`Icon renders all icons 86`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4462,7 +4513,7 @@ exports[`Icon renders all icons 85`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 86`] = `
+exports[`Icon renders all icons 87`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4513,7 +4564,7 @@ exports[`Icon renders all icons 86`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 87`] = `
+exports[`Icon renders all icons 88`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4564,7 +4615,7 @@ exports[`Icon renders all icons 87`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 88`] = `
+exports[`Icon renders all icons 89`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4615,7 +4666,7 @@ exports[`Icon renders all icons 88`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 89`] = `
+exports[`Icon renders all icons 90`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4666,7 +4717,7 @@ exports[`Icon renders all icons 89`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 90`] = `
+exports[`Icon renders all icons 91`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4717,7 +4768,7 @@ exports[`Icon renders all icons 90`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 91`] = `
+exports[`Icon renders all icons 92`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4768,7 +4819,7 @@ exports[`Icon renders all icons 91`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 92`] = `
+exports[`Icon renders all icons 93`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4818,7 +4869,7 @@ exports[`Icon renders all icons 92`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 93`] = `
+exports[`Icon renders all icons 94`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4869,7 +4920,7 @@ exports[`Icon renders all icons 93`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 94`] = `
+exports[`Icon renders all icons 95`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4922,7 +4973,7 @@ exports[`Icon renders all icons 94`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 95`] = `
+exports[`Icon renders all icons 96`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -4973,7 +5024,7 @@ exports[`Icon renders all icons 95`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 96`] = `
+exports[`Icon renders all icons 97`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5024,7 +5075,7 @@ exports[`Icon renders all icons 96`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 97`] = `
+exports[`Icon renders all icons 98`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5074,7 +5125,7 @@ exports[`Icon renders all icons 97`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 98`] = `
+exports[`Icon renders all icons 99`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5125,7 +5176,7 @@ exports[`Icon renders all icons 98`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 99`] = `
+exports[`Icon renders all icons 100`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5176,7 +5227,7 @@ exports[`Icon renders all icons 99`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 100`] = `
+exports[`Icon renders all icons 101`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5227,7 +5278,7 @@ exports[`Icon renders all icons 100`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 101`] = `
+exports[`Icon renders all icons 102`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5278,7 +5329,7 @@ exports[`Icon renders all icons 101`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 102`] = `
+exports[`Icon renders all icons 103`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5329,7 +5380,7 @@ exports[`Icon renders all icons 102`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 103`] = `
+exports[`Icon renders all icons 104`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5380,7 +5431,7 @@ exports[`Icon renders all icons 103`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 104`] = `
+exports[`Icon renders all icons 105`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5431,7 +5482,7 @@ exports[`Icon renders all icons 104`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 105`] = `
+exports[`Icon renders all icons 106`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5484,7 +5535,7 @@ exports[`Icon renders all icons 105`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 106`] = `
+exports[`Icon renders all icons 107`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5535,7 +5586,7 @@ exports[`Icon renders all icons 106`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 107`] = `
+exports[`Icon renders all icons 108`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5586,7 +5637,7 @@ exports[`Icon renders all icons 107`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 108`] = `
+exports[`Icon renders all icons 109`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5637,7 +5688,7 @@ exports[`Icon renders all icons 108`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 109`] = `
+exports[`Icon renders all icons 110`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5688,7 +5739,7 @@ exports[`Icon renders all icons 109`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 110`] = `
+exports[`Icon renders all icons 111`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5738,7 +5789,7 @@ exports[`Icon renders all icons 110`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 111`] = `
+exports[`Icon renders all icons 112`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5789,7 +5840,7 @@ exports[`Icon renders all icons 111`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 112`] = `
+exports[`Icon renders all icons 113`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5842,7 +5893,7 @@ exports[`Icon renders all icons 112`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 113`] = `
+exports[`Icon renders all icons 114`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5893,7 +5944,7 @@ exports[`Icon renders all icons 113`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 114`] = `
+exports[`Icon renders all icons 115`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5944,7 +5995,7 @@ exports[`Icon renders all icons 114`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 115`] = `
+exports[`Icon renders all icons 116`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -5995,7 +6046,7 @@ exports[`Icon renders all icons 115`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 116`] = `
+exports[`Icon renders all icons 117`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6046,7 +6097,7 @@ exports[`Icon renders all icons 116`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 117`] = `
+exports[`Icon renders all icons 118`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6097,7 +6148,7 @@ exports[`Icon renders all icons 117`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 118`] = `
+exports[`Icon renders all icons 119`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6148,7 +6199,7 @@ exports[`Icon renders all icons 118`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 119`] = `
+exports[`Icon renders all icons 120`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6199,7 +6250,7 @@ exports[`Icon renders all icons 119`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 120`] = `
+exports[`Icon renders all icons 121`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6250,7 +6301,7 @@ exports[`Icon renders all icons 120`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 121`] = `
+exports[`Icon renders all icons 122`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6300,7 +6351,7 @@ exports[`Icon renders all icons 121`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 122`] = `
+exports[`Icon renders all icons 123`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6351,7 +6402,7 @@ exports[`Icon renders all icons 122`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 123`] = `
+exports[`Icon renders all icons 124`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6402,7 +6453,7 @@ exports[`Icon renders all icons 123`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 124`] = `
+exports[`Icon renders all icons 125`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6454,7 +6505,7 @@ exports[`Icon renders all icons 124`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 125`] = `
+exports[`Icon renders all icons 126`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6505,7 +6556,7 @@ exports[`Icon renders all icons 125`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 126`] = `
+exports[`Icon renders all icons 127`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6556,7 +6607,7 @@ exports[`Icon renders all icons 126`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 127`] = `
+exports[`Icon renders all icons 128`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6609,7 +6660,7 @@ exports[`Icon renders all icons 127`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 128`] = `
+exports[`Icon renders all icons 129`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6660,7 +6711,7 @@ exports[`Icon renders all icons 128`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 129`] = `
+exports[`Icon renders all icons 130`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6711,7 +6762,7 @@ exports[`Icon renders all icons 129`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 130`] = `
+exports[`Icon renders all icons 131`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6763,7 +6814,7 @@ exports[`Icon renders all icons 130`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 131`] = `
+exports[`Icon renders all icons 132`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6813,7 +6864,7 @@ exports[`Icon renders all icons 131`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 132`] = `
+exports[`Icon renders all icons 133`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6864,7 +6915,7 @@ exports[`Icon renders all icons 132`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 133`] = `
+exports[`Icon renders all icons 134`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6915,7 +6966,7 @@ exports[`Icon renders all icons 133`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 134`] = `
+exports[`Icon renders all icons 135`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -6966,7 +7017,7 @@ exports[`Icon renders all icons 134`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 135`] = `
+exports[`Icon renders all icons 136`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7017,7 +7068,7 @@ exports[`Icon renders all icons 135`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 136`] = `
+exports[`Icon renders all icons 137`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7068,7 +7119,7 @@ exports[`Icon renders all icons 136`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 137`] = `
+exports[`Icon renders all icons 138`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7119,7 +7170,7 @@ exports[`Icon renders all icons 137`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 138`] = `
+exports[`Icon renders all icons 139`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7170,7 +7221,7 @@ exports[`Icon renders all icons 138`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 139`] = `
+exports[`Icon renders all icons 140`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7221,7 +7272,7 @@ exports[`Icon renders all icons 139`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 140`] = `
+exports[`Icon renders all icons 141`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7272,7 +7323,7 @@ exports[`Icon renders all icons 140`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 141`] = `
+exports[`Icon renders all icons 142`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7323,7 +7374,7 @@ exports[`Icon renders all icons 141`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 142`] = `
+exports[`Icon renders all icons 143`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7374,7 +7425,7 @@ exports[`Icon renders all icons 142`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 143`] = `
+exports[`Icon renders all icons 144`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7425,7 +7476,7 @@ exports[`Icon renders all icons 143`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 144`] = `
+exports[`Icon renders all icons 145`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7476,7 +7527,7 @@ exports[`Icon renders all icons 144`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 145`] = `
+exports[`Icon renders all icons 146`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7527,7 +7578,7 @@ exports[`Icon renders all icons 145`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 146`] = `
+exports[`Icon renders all icons 147`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7578,7 +7629,7 @@ exports[`Icon renders all icons 146`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 147`] = `
+exports[`Icon renders all icons 148`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7629,7 +7680,7 @@ exports[`Icon renders all icons 147`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 148`] = `
+exports[`Icon renders all icons 149`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7680,7 +7731,7 @@ exports[`Icon renders all icons 148`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 149`] = `
+exports[`Icon renders all icons 150`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7731,7 +7782,7 @@ exports[`Icon renders all icons 149`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 150`] = `
+exports[`Icon renders all icons 151`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7782,7 +7833,7 @@ exports[`Icon renders all icons 150`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 151`] = `
+exports[`Icon renders all icons 152`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7833,7 +7884,7 @@ exports[`Icon renders all icons 151`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 152`] = `
+exports[`Icon renders all icons 153`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7884,7 +7935,7 @@ exports[`Icon renders all icons 152`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 153`] = `
+exports[`Icon renders all icons 154`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7935,7 +7986,7 @@ exports[`Icon renders all icons 153`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 154`] = `
+exports[`Icon renders all icons 155`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -7986,7 +8037,7 @@ exports[`Icon renders all icons 154`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 155`] = `
+exports[`Icon renders all icons 156`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8037,7 +8088,7 @@ exports[`Icon renders all icons 155`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 156`] = `
+exports[`Icon renders all icons 157`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8088,7 +8139,7 @@ exports[`Icon renders all icons 156`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 157`] = `
+exports[`Icon renders all icons 158`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8139,7 +8190,7 @@ exports[`Icon renders all icons 157`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 158`] = `
+exports[`Icon renders all icons 159`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8190,7 +8241,7 @@ exports[`Icon renders all icons 158`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 159`] = `
+exports[`Icon renders all icons 160`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8241,7 +8292,7 @@ exports[`Icon renders all icons 159`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 160`] = `
+exports[`Icon renders all icons 161`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8292,7 +8343,7 @@ exports[`Icon renders all icons 160`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 161`] = `
+exports[`Icon renders all icons 162`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8343,7 +8394,7 @@ exports[`Icon renders all icons 161`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 162`] = `
+exports[`Icon renders all icons 163`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8394,7 +8445,7 @@ exports[`Icon renders all icons 162`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 163`] = `
+exports[`Icon renders all icons 164`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8445,7 +8496,7 @@ exports[`Icon renders all icons 163`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 164`] = `
+exports[`Icon renders all icons 165`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8495,7 +8546,7 @@ exports[`Icon renders all icons 164`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 165`] = `
+exports[`Icon renders all icons 166`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8547,7 +8598,7 @@ exports[`Icon renders all icons 165`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 166`] = `
+exports[`Icon renders all icons 167`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8598,7 +8649,7 @@ exports[`Icon renders all icons 166`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 167`] = `
+exports[`Icon renders all icons 168`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8649,7 +8700,7 @@ exports[`Icon renders all icons 167`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 168`] = `
+exports[`Icon renders all icons 169`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8700,7 +8751,7 @@ exports[`Icon renders all icons 168`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 169`] = `
+exports[`Icon renders all icons 170`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8751,7 +8802,7 @@ exports[`Icon renders all icons 169`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 170`] = `
+exports[`Icon renders all icons 171`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8801,7 +8852,7 @@ exports[`Icon renders all icons 170`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 171`] = `
+exports[`Icon renders all icons 172`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8852,7 +8903,7 @@ exports[`Icon renders all icons 171`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 172`] = `
+exports[`Icon renders all icons 173`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8901,7 +8952,7 @@ exports[`Icon renders all icons 172`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 173`] = `
+exports[`Icon renders all icons 174`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -8951,7 +9002,7 @@ exports[`Icon renders all icons 173`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 174`] = `
+exports[`Icon renders all icons 175`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9002,7 +9053,7 @@ exports[`Icon renders all icons 174`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 175`] = `
+exports[`Icon renders all icons 176`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9053,7 +9104,7 @@ exports[`Icon renders all icons 175`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 176`] = `
+exports[`Icon renders all icons 177`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9105,7 +9156,7 @@ exports[`Icon renders all icons 176`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 177`] = `
+exports[`Icon renders all icons 178`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9154,7 +9205,7 @@ exports[`Icon renders all icons 177`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 178`] = `
+exports[`Icon renders all icons 179`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9211,7 +9262,7 @@ exports[`Icon renders all icons 178`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 179`] = `
+exports[`Icon renders all icons 180`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9262,7 +9313,7 @@ exports[`Icon renders all icons 179`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 180`] = `
+exports[`Icon renders all icons 181`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9313,7 +9364,7 @@ exports[`Icon renders all icons 180`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 181`] = `
+exports[`Icon renders all icons 182`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9365,7 +9416,7 @@ exports[`Icon renders all icons 181`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 182`] = `
+exports[`Icon renders all icons 183`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9416,7 +9467,7 @@ exports[`Icon renders all icons 182`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 183`] = `
+exports[`Icon renders all icons 184`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9466,7 +9517,7 @@ exports[`Icon renders all icons 183`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 184`] = `
+exports[`Icon renders all icons 185`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9516,7 +9567,7 @@ exports[`Icon renders all icons 184`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 185`] = `
+exports[`Icon renders all icons 186`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9567,7 +9618,7 @@ exports[`Icon renders all icons 185`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 186`] = `
+exports[`Icon renders all icons 187`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9618,7 +9669,7 @@ exports[`Icon renders all icons 186`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 187`] = `
+exports[`Icon renders all icons 188`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9669,7 +9720,7 @@ exports[`Icon renders all icons 187`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 188`] = `
+exports[`Icon renders all icons 189`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9719,7 +9770,7 @@ exports[`Icon renders all icons 188`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 189`] = `
+exports[`Icon renders all icons 190`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9770,7 +9821,7 @@ exports[`Icon renders all icons 189`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 190`] = `
+exports[`Icon renders all icons 191`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9822,7 +9873,7 @@ exports[`Icon renders all icons 190`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 191`] = `
+exports[`Icon renders all icons 192`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9873,7 +9924,7 @@ exports[`Icon renders all icons 191`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 192`] = `
+exports[`Icon renders all icons 193`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9923,7 +9974,7 @@ exports[`Icon renders all icons 192`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 193`] = `
+exports[`Icon renders all icons 194`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -9974,7 +10025,7 @@ exports[`Icon renders all icons 193`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 194`] = `
+exports[`Icon renders all icons 195`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10025,7 +10076,7 @@ exports[`Icon renders all icons 194`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 195`] = `
+exports[`Icon renders all icons 196`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10076,7 +10127,7 @@ exports[`Icon renders all icons 195`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 196`] = `
+exports[`Icon renders all icons 197`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10127,7 +10178,7 @@ exports[`Icon renders all icons 196`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 197`] = `
+exports[`Icon renders all icons 198`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10178,7 +10229,7 @@ exports[`Icon renders all icons 197`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 198`] = `
+exports[`Icon renders all icons 199`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10229,7 +10280,7 @@ exports[`Icon renders all icons 198`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 199`] = `
+exports[`Icon renders all icons 200`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10280,7 +10331,7 @@ exports[`Icon renders all icons 199`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 200`] = `
+exports[`Icon renders all icons 201`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10331,7 +10382,7 @@ exports[`Icon renders all icons 200`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 201`] = `
+exports[`Icon renders all icons 202`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10382,7 +10433,7 @@ exports[`Icon renders all icons 201`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 202`] = `
+exports[`Icon renders all icons 203`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10433,7 +10484,7 @@ exports[`Icon renders all icons 202`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 203`] = `
+exports[`Icon renders all icons 204`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10484,7 +10535,7 @@ exports[`Icon renders all icons 203`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 204`] = `
+exports[`Icon renders all icons 205`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10535,7 +10586,7 @@ exports[`Icon renders all icons 204`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 205`] = `
+exports[`Icon renders all icons 206`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10586,7 +10637,7 @@ exports[`Icon renders all icons 205`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 206`] = `
+exports[`Icon renders all icons 207`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10637,7 +10688,7 @@ exports[`Icon renders all icons 206`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 207`] = `
+exports[`Icon renders all icons 208`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10688,7 +10739,7 @@ exports[`Icon renders all icons 207`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 208`] = `
+exports[`Icon renders all icons 209`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10739,7 +10790,7 @@ exports[`Icon renders all icons 208`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 209`] = `
+exports[`Icon renders all icons 210`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10790,7 +10841,7 @@ exports[`Icon renders all icons 209`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 210`] = `
+exports[`Icon renders all icons 211`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10841,7 +10892,7 @@ exports[`Icon renders all icons 210`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 211`] = `
+exports[`Icon renders all icons 212`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10892,7 +10943,7 @@ exports[`Icon renders all icons 211`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 212`] = `
+exports[`Icon renders all icons 213`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10943,7 +10994,7 @@ exports[`Icon renders all icons 212`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 213`] = `
+exports[`Icon renders all icons 214`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -10995,7 +11046,7 @@ exports[`Icon renders all icons 213`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 214`] = `
+exports[`Icon renders all icons 215`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11047,7 +11098,7 @@ exports[`Icon renders all icons 214`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 215`] = `
+exports[`Icon renders all icons 216`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11098,7 +11149,7 @@ exports[`Icon renders all icons 215`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 216`] = `
+exports[`Icon renders all icons 217`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11149,7 +11200,7 @@ exports[`Icon renders all icons 216`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 217`] = `
+exports[`Icon renders all icons 218`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11200,7 +11251,7 @@ exports[`Icon renders all icons 217`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 218`] = `
+exports[`Icon renders all icons 219`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11251,7 +11302,7 @@ exports[`Icon renders all icons 218`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 219`] = `
+exports[`Icon renders all icons 220`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11302,7 +11353,7 @@ exports[`Icon renders all icons 219`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 220`] = `
+exports[`Icon renders all icons 221`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11354,7 +11405,7 @@ exports[`Icon renders all icons 220`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 221`] = `
+exports[`Icon renders all icons 222`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11405,7 +11456,7 @@ exports[`Icon renders all icons 221`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 222`] = `
+exports[`Icon renders all icons 223`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11456,7 +11507,7 @@ exports[`Icon renders all icons 222`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 223`] = `
+exports[`Icon renders all icons 224`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11507,7 +11558,7 @@ exports[`Icon renders all icons 223`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 224`] = `
+exports[`Icon renders all icons 225`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11558,7 +11609,7 @@ exports[`Icon renders all icons 224`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 225`] = `
+exports[`Icon renders all icons 226`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11608,7 +11659,7 @@ exports[`Icon renders all icons 225`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 226`] = `
+exports[`Icon renders all icons 227`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11659,7 +11710,7 @@ exports[`Icon renders all icons 226`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 227`] = `
+exports[`Icon renders all icons 228`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11710,7 +11761,7 @@ exports[`Icon renders all icons 227`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 228`] = `
+exports[`Icon renders all icons 229`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11761,7 +11812,7 @@ exports[`Icon renders all icons 228`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 229`] = `
+exports[`Icon renders all icons 230`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11811,7 +11862,7 @@ exports[`Icon renders all icons 229`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 230`] = `
+exports[`Icon renders all icons 231`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11862,7 +11913,7 @@ exports[`Icon renders all icons 230`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 231`] = `
+exports[`Icon renders all icons 232`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11923,7 +11974,7 @@ exports[`Icon renders all icons 231`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 232`] = `
+exports[`Icon renders all icons 233`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -11973,7 +12024,7 @@ exports[`Icon renders all icons 232`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 233`] = `
+exports[`Icon renders all icons 234`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -12023,7 +12074,7 @@ exports[`Icon renders all icons 233`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 234`] = `
+exports[`Icon renders all icons 235`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -12084,7 +12135,7 @@ exports[`Icon renders all icons 234`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 235`] = `
+exports[`Icon renders all icons 236`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -12135,7 +12186,7 @@ exports[`Icon renders all icons 235`] = `
 </svg>
 `;
 
-exports[`Icon renders all icons 236`] = `
+exports[`Icon renders all icons 237`] = `
 .c0 {
   display: inline-block;
   -webkit-flex: 0 0 auto;
@@ -12182,57 +12233,6 @@ exports[`Icon renders all icons 236`] = `
     fill="none"
     stroke="#000"
     strokeWidth="2"
-  />
-</svg>
-`;
-
-exports[`Icon renders all icons 237`] = `
-.c0 {
-  display: inline-block;
-  -webkit-flex: 0 0 auto;
-  -ms-flex: 0 0 auto;
-  flex: 0 0 auto;
-  fill: #666666;
-  stroke: #666666;
-}
-
-.c0 g {
-  fill: inherit;
-  stroke: inherit;
-}
-
-.c0 *:not([stroke])[fill="none"] {
-  stroke-width: 0;
-}
-
-.c0 *[stroke*="#"],
-.c0 *[STROKE*="#"] {
-  stroke: inherit;
-  fill: none;
-}
-
-.c0 *[fill-rule],
-.c0 *[FILL-RULE],
-.c0 *[fill*="#"],
-.c0 *[FILL*="#"] {
-  fill: inherit;
-  stroke: none;
-}
-
-<svg
-  aria-label="Atom"
-  className="c0"
-  height="24px"
-  role="img"
-  version="1.1"
-  viewBox="0 0 24 24"
-  width="24px"
->
-  <path
-    d="M12,2 C6.485,2 2,6.485 2,12 C2,17.515 6.485,22 12,22 C17.515,22 22,17.515 22,12 C22,6.485 17.515,2 12,2 Z"
-    fill="none"
-    stroke="#865CD6"
-    strokeWidth="4"
   />
 </svg>
 `;

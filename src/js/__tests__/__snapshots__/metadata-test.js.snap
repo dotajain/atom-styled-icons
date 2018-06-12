@@ -193,6 +193,10 @@ Object {
     "finance",
     "money",
   ],
+  "Atom": Array [
+    "awesome",
+    "logo",
+  ],
   "Attachment": Array [
     "clip",
     "files",
@@ -1505,10 +1509,6 @@ Object {
   "Grid": Array [
     "line",
     "layout",
-  ],
-  "Atom": Array [
-    "awesome",
-    "logo",
   ],
   "Group": Array [
     "people",
